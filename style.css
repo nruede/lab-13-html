@@ -30,3 +30,9 @@ font-size:24pt;
 h2,p{
 	color:#006600;
 }
+p a:hover{
+	text-transform:uppercase;
+}
+body{
+	background:white url(http://i1.ytimg.com/vi/jt4E3J8XzJM/maxresdefault.jpg) repeat top right;
+}
